@@ -21,27 +21,44 @@ exercise.updatePosition = function() {
     // now set image position using img1.style.left 
     // remember images positions are "xxx.px"
 
+    exercise.pos.x = exercise.pos.x + exercise.increment;
+    console.log( exercise.pos.x + exercise.increment);
+    exercise.img1.style.left = exercise.pos.x;
+
 
 };
 exercise.chooseImage = function() {
     // choose between all 4 images
     if (exercise.increment > 0) {
         if (exercise.flag === 1) {
-
+            exercise.img1.src = "PacMan1.png";
+            exercise.flag = 0;
         } else {
-
+            exercise.img1.src = "PacMan2.png";
+            exercise.flag = 1;
         }
     } else if (exercise.increment < 0) {
         if (exercise.flag === 1) {
-
+            exercise.img1.src = "PacMan3.png";
+            exercise.flag = 0;
         } else {
-
+            exercise.img1.src = "PacMan4.png";
+            exercise.flag = 1;
         }
     }
 };
 exercise.checkWallCollision = function() {
     // reset the direction of motion if wall is hit
     // you need to take into account image width
+    if (exercise.pos.x > 600 - 40){
+        exercise.increment = -20;
+    }
 
+    if (exercise.pos.x < 0 + 40){
+        exercise.increment = 20;
+    }
+    // else {
+    //     exercise.increment = 20;
+    // }
 
 };
