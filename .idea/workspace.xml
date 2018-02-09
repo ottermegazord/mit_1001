@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ded62d0f-2920-4da1-af14-69b416a09f88" name="Default" comment="" />
+    <list default="true" id="ded62d0f-2920-4da1-af14-69b416a09f88" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +19,8 @@
       <file leaf-file-name="exercise.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PS1/starter_code/exercise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            <state relative-caret-position="265">
+              <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -189,7 +191,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518135834903</updated>
-      <workItem from="1518135836019" duration="4494000" />
+      <workItem from="1518135836019" duration="5737000" />
     </task>
     <task id="LOCAL-00001" summary="Add skeleton file for PS1">
       <created>1518135994103</created>
@@ -209,7 +211,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4494000" />
+    <option name="totallyTimeSpent" value="5737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="302" y="56" width="1297" height="937" extended-state="0" />
@@ -289,8 +291,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PS1/starter_code/exercise.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        <state relative-caret-position="265">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
