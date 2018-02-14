@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<!-- document style -->
+<style>.format{font-size:1.5em;font-family:arial}</style>
+
+<!-- load library -->
+<script src="exercise.js"></script>
+
+<!-- buttons used to call functions -->
+<button onclick="callChange()" class="format">Call change function</button>
+<div id='changeResponse'></div><br>
+
+<button onclick="callLength()" class="format">Call length function</button>
+<div id='lengthResponse'></div><br>
+
+<button onclick="callConcatenate()" class="format">Call concatenate function</button>
+<div id='concatenateResponse'></div><br>
+
+<button onclick="callAddToEnd()" class="format">Call addToEnd function</button>
+<div id='addToEndResponse'></div><br>
+
+<button onclick="callAddToBegin()" class="format">Call addToBegin function</button>
+<div id='addToBeginResponse'></div><br>
+
+<button onclick="callDeleteLast()" class="format">Call deleteLast function</button>
+<div id='deleteLastResponse'></div><br>
+
+<button onclick="callDeleteFirst()" class="format">Call deleteFirst function</button>
+<div id='deleteFirstResponse'></div><br>
+
+<button onclick="callInsert()" class="format">Call insert function</button>
+<div id='insertResponse'></div><br>
+
+<button onclick="callConcat()" class="format">Call concat function</button>
+<div id='concatResponse'></div><br>
+
+<button onclick="callSortAlphabetically()" class="format">Call sortAlphabetically function</button>
+<div id='sortAlphabeticallyResponse'></div><br>
+
+<button onclick="callReverseSort()" class="format">Call reverseSort function</button>
+<div id='reversesSortResponse'></div><br>
+
+<script>
+
+function callChange(){
+	var response = exercise.change();
+	document.getElementById('changeResponse').innerHTML = response;	
+}
+
+function callLength(){
+	var response = exercise.length();
+	document.getElementById('lengthResponse').innerHTML = response;	
+}
+
+function callConcatenate(){
+	var response = exercise.concatenate();
+	document.getElementById('concatenateResponse').innerHTML = response;	
+}
+
+function callAddToEnd(){
+	var response = exercise.addToEnd();
+	document.getElementById('addToEndResponse').innerHTML = response;	
+}
+
+function callAddToBegin(){
+	var response = exercise.addToBegin();
+	document.getElementById('addToBeginResponse').innerHTML = response;	
+}
+
+function callDeleteLast(){
+	var response = exercise.deleteLast();
+	document.getElementById('deleteLastResponse').innerHTML = response;	
+}
+
+function callDeleteFirst(){
+	var response = exercise.deleteFirst();
+	document.getElementById('deleteFirstResponse').innerHTML = response;	
+}
+
+function callInsert(){
+	var response = exercise.insert();
+	document.getElementById('insertResponse').innerHTML = response;	
+}
+
+function callConcat(){
+	var response = exercise.concat();
+	document.getElementById('concatResponse').innerHTML = response;	
+}
+
+function callSortAlphabetically(){
+	var response = exercise.sortAlphabetically();
+	document.getElementById('sortAlphabeticallyResponse').innerHTML = response;	
+}
+
+function callReverseSort(){
+	var response = exercise.reverseSort();
+	document.getElementById('reversesSortResponse').innerHTML = response;	
+}
+
+</script>
+</html>

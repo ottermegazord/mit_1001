@@ -1,0 +1,76 @@
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+    <!--<meta charset="UTF-8">-->
+    <!--<title>Lecture 3 Hands-on</title>-->
+<!--</head>-->
+<!--<body>-->
+
+<div style="
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 50px;
+    height: 50px;
+    background: #800611;
+    border-radius: 50%" id = "ball"></div>
+
+<script>
+
+    window.onload = function(){
+      timer();
+    };
+
+    var ball = document.getElementById("ball");
+
+    var x = 25;
+    var dx = 10;
+
+    var y = 30;
+    var dy = 10;
+
+    var counter = 0;
+    var magnitude = 15;
+
+    var timer = function(){
+      draw();
+      counter++;
+      setTimeout(timer, 1*Math.random());
+//      if (counter < 350){
+//          setTimeout(timer, 10);
+//      }
+    };
+
+    function draw(){
+
+        if (x > 700){
+            dx = -magnitude * Math.random();
+        }
+        else if (x <= 0){
+            dx = magnitude * Math.random();
+        }
+
+        if (y > 700){
+            dy = -magnitude * Math.random();
+        }
+        else if (y <= 0){
+            dy = magnitude * Math.random();
+        }
+
+        x += dx;
+        y += dy;
+
+        ball.style.left = x + 'px';
+        ball.style.top = y + 'px';
+
+    };
+
+    ball.style.top = '200px';
+    ball.style.left = '300px';
+
+</script>
+
+
+
+<!--</body>-->
+<!--</html>-->

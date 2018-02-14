@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<!-- document style -->
+<style>.format{font-size:1.5em;font-family:arial}</style>
+
+<!-- load library -->
+<script src="exercise.js"></script>
+
+<!-- buttons used to call functions -->
+<button onclick="callOrder()" class="format">Call order function</button>
+<div id='orderResponse'></div><br>
+
+<script>
+
+function callOrder(){
+	var response = exercise.order();
+	document.getElementById('orderResponse').innerHTML = response;	
+}
+
+</script>
+</html>

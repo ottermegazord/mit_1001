@@ -1,0 +1,19 @@
+{
+  "name": "ex-arrayBasics",
+  "version": "1.0.0",
+  "description": "Array basics exercise",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["testing"],
+  "author": "onexi",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
