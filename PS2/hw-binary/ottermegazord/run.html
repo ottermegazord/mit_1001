@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<script src="exercise.js"></script>
+<script>
+
+    var timer = function () {
+        // get the current date & time
+        var time = new Date();
+
+        // show roman time, using 6 columns
+        setRoman(time);
+
+        // show binary time
+        setBinary(time);
+
+        // update every 1 second
+        setTimeout(timer, 1000);
+    };
+
+    var setRoman = function (time) {
+        exercise.roman(time);
+        // set roman time
+        // you must implement exercise.roman()
+    };
+
+    var setBinary = function (time) {
+        col = 'sec_col2';
+        exercise.binary(time, col);
+        // set roman time
+        // you must implement exercise.binary()
+    };
+
+    // start timer when page is loaded
+    // your code here
+
+    window.onload = function() {
+        timer();
+    }
+
+
+</script>
+
+//hour
+
+<div id= "hour_col1_pos1" style="
+    position: absolute;
+    left: 10px;
+    top: 230px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+<div id= "hour_col1_pos_1" style="
+    position: absolute;
+    left: 10px;
+    top: 340px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+
+<div id= "hour_col1_pos_2" style="
+    position: absolute;
+    left: 120px;
+    top: 10px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+<div id= "hour_col1_pos_3" style="
+    position: absolute;
+    left: 120px;
+    top: 120px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+
+<div id= "hour_col1_pos_4" style="
+    position: absolute;
+    left: 120px;
+    top: 230px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+<div style="
+    position: absolute;
+    left: 120px;
+    top: 340px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+// minutes
+
+<div style="
+    position: absolute;
+    left: 230px;
+    top: 120px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+
+<div style="
+    position: absolute;
+    left: 230px;
+    top: 230px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+<div style="
+    position: absolute;
+    left: 230px;
+    top: 340px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+
+<div style="
+    position: absolute;
+    left: 340px;
+    top: 10px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+<div style="
+    position: absolute;
+    left: 340px;
+    top: 120px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+
+<div style="
+    position: absolute;
+    left: 340px;
+    top: 230px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+<div style="
+    position: absolute;
+    left: 340px;
+    top: 340px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+
+// seconds
+
+<div style="
+    position: absolute;
+    left: 450px;
+    top: 120px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+
+<div style="
+    position: absolute;
+    left: 450px;
+    top: 230px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+<div style="
+    position: absolute;
+    left: 450px;
+    top: 340px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+<div style="
+    position: absolute;
+    left: 560px;
+    top: 10px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+<div style="
+    position: absolute;
+    left: 560px;
+    top: 120px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+
+<div style="
+    position: absolute;
+    left: 560px;
+    top: 230px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+<div style="
+    position: absolute;
+    left: 560px;
+    top: 340px;
+    width: 100px;
+    height: 100px;
+    background: green"></div>
+
+
+<!--
+
+	Write HTML elements to hold your binary clock positions
+
+	There are 6 columns in a binary clock
+
+-->
+
+</html>
+     
