@@ -1,6 +1,5 @@
 var exercise = {};
 
-
 exercise.roman = function(time){
     //-------------------------------------
     //  YOUR CODE
@@ -23,59 +22,19 @@ exercise.roman = function(time){
     var seconds = time.getSeconds();
 
     var romanize = {
-        hour_col1 : Math.floor((hours / 10) % 10),
-        hour_col2 : Math.floor((hours / 1) % 10),
-        min_col1  : Math.floor((minutes / 10) % 10),
-        min_col2  : Math.floor((minutes / 1) % 10),
-        sec_col1  : Math.floor((seconds / 10) % 10),
-        sec_col2  : Math.floor((seconds / 1) % 10)
+        hour_col1: Math.floor((hours/10)%10),
+        hour_col2: Math.floor((hours/1)%10),
+        min_col1: Math.floor((minutes/10)%10),
+        min_col2: Math.floor((minutes/1)%10),
+        sec_col1: Math.floor((seconds/10)%10),
+        sec_col2: Math.floor((seconds/1)%10)
     };
 
-    //console.log(romanize);
-
     return romanize;
-
 };
 
 exercise.binary = function(time, col){
-    var romanizer = exercise.roman(time);
-    var digit = romanizer[col];
-
-    //initialize binary
-    console.log(digit);
-
-    var binary = {
-        position8: 'off',
-        position4: 'off',
-        position2: 'off',
-        position1: 'off'
-    };
-
-    if (digit > 7){
-        digit -= 8;
-        binary.position8 = 'on';
-    }
-
-    if (digit > 3){
-        digit -=4;
-        binary.position4 = 'on';
-    }
-
-    if (digit > 1){
-        digit -=2;
-        binary.position2 = 'on';
-    }
-
-    if (digit > 0){
-        digit -=1;
-        binary.position1 = 'on';
-    }
-
-    console.log(binary);
-    return binary;
-
-
-    //----------------------------------------------------------
+	//----------------------------------------------------------
     //  YOUR CODE
     //    Return an object with
     //    the binary clock values 
@@ -90,5 +49,35 @@ exercise.binary = function(time, col){
     //    }; 
     // 
     //----------------------------------------------------------
+    var romanizer = exercise.roman(time);
+    var digit = romanizer[col];
 
+    var binary = {
+        position8: 'off',
+        position4: 'off',
+        position2: 'off',
+        position1: 'off'
+    };
+
+    if (digit >= 8){
+        digit -= 8;
+        binary.position8 = 'on';
+    }
+
+    if (digit >= 4){
+        digit -=4;
+        binary.position4 = 'on';
+    }
+
+    if (digit >= 2){
+        digit -=2;
+        binary.position2 = 'on';
+    }
+
+    if (digit >= 1){
+        digit -=1;
+        binary.position1 = 'on';
+    }
+
+    return binary;
 };
