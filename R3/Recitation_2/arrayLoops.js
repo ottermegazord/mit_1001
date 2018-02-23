@@ -79,17 +79,25 @@ console.log("Sorted Numbers: " + sortedNumbers);
 
 // Sort names into alphabetical order
 
+function copy(a){
+    return a;
+}
+
+var people1 = people.map(copy);
+
 function compare(a, b) {
     if (a.name < b.name) return -1;
     if (a.name > b.name) return 1;
     if (a.name === b.name) return 0;
 }
 
-var sortedPeople = people.sort(compare);
+var sortedPeople = people1.sort(compare);
 
 console.log(sortedPeople);
 
 // Sort people by ID
+
+var people2 = people.map(copy);
 
 function compareID(a, b) {
     if (a.id < b.id) return -1;
@@ -97,5 +105,5 @@ function compareID(a, b) {
     if (a.id === b.id) return 0;
 }
 
-var sortedID = people.sort(compareID);
+var sortedID = people2.sort(compareID);
 console.log(sortedID);
