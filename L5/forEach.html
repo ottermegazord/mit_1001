@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<script>
+    var employees = [ // aray
+        {names: 'peter', salary: '10000'}, // item
+        {names: 'bruce', salary: '12200'},
+        {names: 'anna', salary: '99900'}
+
+    ];
+
+    var salaries = 0;
+
+    function add(item, counter, array){
+        console.log(item);
+        salaries += Number(item.salary);
+    }
+
+    employees.forEach(add);
+    console.log('Salaries: ' + salaries);
+
+
+</script>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<script>
+
+var employees = [
+  {name: 'peter', salary: 100000},
+  {name: 'bruce', salary: 425000},
+  {name: 'hanna', salary: 750000},
+  {name: 'james', salary: 550800}    
+];
+
+function isBigEnough(element, counter) { //item, counter, array
+//    if (element.salary >= 500000){
+//        return true
+//    }
+//    else {
+//        return false
+//    }
+	var comparison = element.salary >= 500000;
+  	return comparison;
+}
+
+var filtered = employees.filter(isBigEnough); // isBigenough has to be true or false
+console.log(JSON.stringify(filtered));
+
+</script>
+</html>
