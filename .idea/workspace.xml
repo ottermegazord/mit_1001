@@ -2,8 +2,124 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ded62d0f-2920-4da1-af14-69b416a09f88" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/HW04.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalogSample.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L5/promise.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L5/reduce_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L8/check.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L8/consumeHello.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L8/hello.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L8/helloNonBlocking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L8/hellowWorld.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L8/nonBlocking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L8/request_sample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/catalog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m10a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m10b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m11a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m11b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m11c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m12a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m12b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m12c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m14a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m14b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m15a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m15b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m15c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m16a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m16b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m17a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m17b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m18a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m18b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m1a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m1b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m1c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m20a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Aa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Ga.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Gb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Gc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Gd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Ge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Gf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Gg.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Gh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Gq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Gr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Gs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Ha.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Hb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21La.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Ma.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Mb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21Wa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m21a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m22a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m22b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m22c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m24a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m24b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m2a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m2b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m2c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m3a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m3b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m4a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m4b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m4c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m4d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m4e.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m4f.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m4g.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m5a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m5b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m6a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m6b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m6c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m7a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m8a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m8b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m9a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/m9b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mASa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mCCa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mCMSa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mCSBa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mECa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mEMa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mESa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mHSTa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mHSTb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mIDSa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mMASa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mMSa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mNSa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mSCMa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mSPa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mSTSa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mSTSb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mSWEa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalog/mWGSa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalogSample/catalog_data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalogSample/catalog_graph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalogSample/catalog_sample.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalogSample/d3.tip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/catalogSample/styles-example.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/exercise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/exercise2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw-bubbles/ottermegazord/test/test.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/R3/Recitation_2/arrayLoops.js" afterPath="$PROJECT_DIR$/R3/Recitation_2/arrayLoops.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,61 +133,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="filter.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/L5/code 5/filter.html">
+      <file leaf-file-name="reduce_01.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/L5/reduce_01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="46" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/R3/run.html">
+      <file leaf-file-name="promise.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L5/promise.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recitation2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/R3/Recitation_2/recitation2.html">
+      <file leaf-file-name="check.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L8/check.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arrayLoops.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/R3/Recitation_2/arrayLoops.js">
+      <file leaf-file-name="forEach.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L5/forEach.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arrayFunctions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/R3/Recitation_2/arrayFunctions.js">
+      <file leaf-file-name="request_sample.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L8/request_sample.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/R3/exercise.js">
+      <file leaf-file-name="nonBlocking.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L8/nonBlocking.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+            <state relative-caret-position="120">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hellowWorld.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L8/hellowWorld.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helloNonBlocking.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L8/helloNonBlocking.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L8/hello.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -82,8 +228,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -93,6 +239,7 @@
       <find>pos</find>
       <find>pos.x</find>
       <find>x</find>
+      <find>m1a</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,6 +272,16 @@
         <option value="$PROJECT_DIR$/R3/run.html" />
         <option value="$PROJECT_DIR$/R3/exercise.js" />
         <option value="$PROJECT_DIR$/R3/Recitation_2/arrayLoops.js" />
+        <option value="$PROJECT_DIR$/L8/helloNonBlocking.js" />
+        <option value="$PROJECT_DIR$/L8/nonBlocking.js" />
+        <option value="$PROJECT_DIR$/L8/hellowWorld.js" />
+        <option value="$PROJECT_DIR$/L8/hello.js" />
+        <option value="$PROJECT_DIR$/L8/consumeHello.js" />
+        <option value="$PROJECT_DIR$/L8/request_sample.js" />
+        <option value="$PROJECT_DIR$/L8/check.js" />
+        <option value="$PROJECT_DIR$/L5/reduce_01.js" />
+        <option value="$PROJECT_DIR$/L5/reduce_01.html" />
+        <option value="$PROJECT_DIR$/L5/promise.html" />
       </list>
     </option>
   </component>
@@ -135,13 +292,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/L8/node_modules" />
     <handled-path value="$PROJECT_DIR$/PS1/starter_code/node_modules" />
     <handled-path value="$PROJECT_DIR$/PS2/hw-binary/ottermegazord/node_modules" />
     <handled-path value="$PROJECT_DIR$/R2/HW-1PacMan/starter_code/node_modules" />
+    <handled-path value="$PROJECT_DIR$/hw-bubbles/ottermegazord/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="23" />
+    <option name="x" value="510" />
+    <option name="y" value="36" />
     <option name="width" value="1051" />
     <option name="height" value="972" />
   </component>
@@ -161,7 +320,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,43 +327,11 @@
               <item name="mit_1001" type="b2602c69:ProjectViewProjectNode" />
               <item name="mit_1001" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mit_1001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mit_1001" type="462c0819:PsiDirectoryNode" />
-              <item name="L5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mit_1001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mit_1001" type="462c0819:PsiDirectoryNode" />
-              <item name="L5" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mit_1001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mit_1001" type="462c0819:PsiDirectoryNode" />
-              <item name="L5" type="462c0819:PsiDirectoryNode" />
-              <item name="code 5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mit_1001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mit_1001" type="462c0819:PsiDirectoryNode" />
-              <item name="R2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mit_1001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mit_1001" type="462c0819:PsiDirectoryNode" />
-              <item name="R3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mit_1001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mit_1001" type="462c0819:PsiDirectoryNode" />
-              <item name="R3" type="462c0819:PsiDirectoryNode" />
-              <item name="Recitation_2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,17 +342,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/L5" />
+      <recent name="$PROJECT_DIR$/PS2" />
+      <recent name="$PROJECT_DIR$/R2" />
+      <recent name="$PROJECT_DIR$/L4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/R3" />
       <recent name="$PROJECT_DIR$/L5" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/L5" />
-      <recent name="$PROJECT_DIR$/PS2" />
-      <recent name="$PROJECT_DIR$/R2" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/L4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,26 +367,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.recitation2.html">
-    <configuration name="filter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mit_1001/L5/code 5/filter.html" />
-    <configuration name="graffitiPerZip.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mit_1001/L5/code 5/graffitiPerZip.html" />
-    <configuration name="recitation2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mit_1001/R3/Recitation_2/recitation2.html" />
-    <configuration name="run.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mit_1001/R3/run.html" />
-    <configuration name="skeleton.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mit_1001/R2/skeleton.html" />
+  <component name="RunManager" selected="JavaScript Debug.promise.html">
+    <configuration name="check.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="check.js" working-dir="$PROJECT_DIR$/L8" />
+    <configuration name="consumeHello.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="consumeHello.js" working-dir="$PROJECT_DIR$/L8" />
+    <configuration name="promise.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mit_1001/L5/promise.html" />
+    <configuration name="reduce_01.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mit_1001/L5/reduce_01.html" />
+    <configuration name="request_sample.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="request_sample.js" working-dir="$PROJECT_DIR$/L8" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.filter.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.graffitiPerZip.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.skeleton.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.run.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.recitation2.html" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.consumeHello.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.request_sample.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.check.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.reduce_01.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.promise.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.recitation2.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.run.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.skeleton.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.graffitiPerZip.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.filter.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.promise.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.reduce_01.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.check.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.request_sample.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.consumeHello.js" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +408,9 @@
       <workItem from="1519090975389" duration="4420000" />
       <workItem from="1519175363282" duration="2864000" />
       <workItem from="1519180867538" duration="1104000" />
-      <workItem from="1519395243120" duration="3859000" />
+      <workItem from="1519395243120" duration="4809000" />
+      <workItem from="1519518941822" duration="3742000" />
+      <workItem from="1519585765977" duration="891000" />
     </task>
     <task id="LOCAL-00001" summary="Add skeleton file for PS1">
       <created>1518135994103</created>
@@ -340,21 +468,27 @@
       <option name="project" value="LOCAL" />
       <updated>1519398110746</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Completes recitation 2 arrayFunctions.js">
+      <created>1519399152683</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1519399152683</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38684000" />
+    <option name="totallyTimeSpent" value="44267000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="23" width="1051" height="972" extended-state="0" />
-    <editor active="true" />
+    <frame x="510" y="36" width="1051" height="972" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32350144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32350144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.51474786" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.48525214" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.49742836" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288889" sideWeight="0.5061846" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.48144624" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.49381542" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -392,13 +526,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/R3/Recitation_2/arrayLoops.js</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/R3/Recitation_2/arrayLoops.js</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -407,64 +539,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/L3/exercise.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS1/starter_code/exercise.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS1/starter_code/run.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS1/starter_code/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS1/starter_code/PacMan2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS1/starter_code/PacMan1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS1/starter_code/PacMan3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS1/starter_code/PacMan4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS1/starter_code/PacMan4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS1/starter_code/PacMan3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PS1/starter_code/PacMan2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -573,9 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="23" column="75" lean-forward="false" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -633,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,15 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/L5/forEach.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,7 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,7 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -676,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,7 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,14 +749,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/R3/exercise.js">
+    <entry file="file://$PROJECT_DIR$/R3/Recitation_2/arrayLoops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        <state relative-caret-position="256">
+          <caret line="95" column="26" lean-forward="true" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -708,14 +764,92 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R3/exercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L8/consumeHello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L5/reduce_01.js" />
+    <entry file="file://$PROJECT_DIR$/L5/promise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/R3/Recitation_2/arrayLoops.js">
+    <entry file="file://$PROJECT_DIR$/L8/check.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L5/forEach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L8/request_sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L8/nonBlocking.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L8/hellowWorld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L8/helloNonBlocking.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L8/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L5/reduce_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
