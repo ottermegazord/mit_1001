@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<script src="payments_2005_to_2010.json"></script>
+<script>
+
+var salaries = 0;
+
+function add(item){
+	// -----------------------------
+	//    YOUR CODE: write callback 
+	// -----------------------------
+	var currentSalary = Number(item[9]); //item refers to each array of chicago data
+	salaries += currentSalary;
+}
+
+chicago.data.forEach(add);
+console.log(salaries);
+document.write("<h1> Salary is " + salaries + "<h1>");
+
+</script>
+</html>

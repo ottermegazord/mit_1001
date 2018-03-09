@@ -1,0 +1,58 @@
+<html>
+<!-- load google charts library -->
+<script src="https://www.gstatic.com/charts/loader.js"></script>
+<script >
+
+// global variables
+var chart   = null;
+var data    = null;      
+var options = null;
+
+// Load the Visualization API and the corechart package.
+google.charts.load('current', {'packages':['corechart']});
+
+// init chart after page loads
+window.onload = function(){
+
+    // create chart instance
+    chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));      
+
+    // Create table, add columns and rows
+    data = new google.visualization.DataTable();
+    data.addColumn('string', 'id');
+    data.addColumn('number', 'Slices');
+
+    // add row
+    addRow();
+};
+
+function addRow() {
+    //------------------------------------------
+    //   YOUR CODE
+    //
+    //   Enter random data between 1-100.
+    //   Add timer to continuously add data.
+    //
+    //   Sample row entry:
+    //     data.addRows([
+    //         ['hello', 50]
+    //     ]);
+    //     chart.draw(data);
+    //------------------------------------------
+}
+
+function deleteRows() {
+    data.removeRows(0,data.getNumberOfRows());
+    chart.draw(data);
+    console.log(data.getNumberOfRows());        
+}
+
+</script>
+
+<button onclick="deleteRows()">Delete All Data</button>    
+<button onclick="addRow()">Add Row of Data</button>    
+
+<!-- div that will hold the chart-->
+<div id="chart_div"></div>
+
+</html>
