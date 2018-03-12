@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 07 - passing functions -->
+
+<script>
+
+// declare and assign
+var speak = function (greeting, firstName, lastName){
+	greeting(firstName, lastName);
+};
+
+// declare and assign
+var greeting = function(firstName, lastName){
+	console.log(firstName + ' ' + lastName);
+};
+
+// pass function as parameter
+speak(greeting, 'peter', 'parker');
+
+// you also define function in parameter
+
+</script>
+</html>

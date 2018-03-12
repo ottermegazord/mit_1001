@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 05 - add function to object property -->
+
+<script>
+
+// declare and assign object
+var math = { add : null, subtract : null };
+
+// assign function to add property
+math.add = function(a,b){
+	return a+b;
+};
+
+// assign function to subtract property
+math.subtract = function(a,b){
+	return a-b;
+};
+
+var addition = math.add(1,8);
+var subtraction = math.subtract(10,2);
+
+console.log('addition: ' + addition);
+console.log('subtraction: ' + subtraction);
+
+</script>
+</html>

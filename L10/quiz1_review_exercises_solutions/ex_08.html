@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 08 - scope, leaking variables -->
+
+<script>
+
+var student = 'peter parker';
+
+var myFunction = function(){
+	var student = 'bruce wayne';
+	var friend = 'robin'; // add "var" to avoid leak
+	console.log(student);
+};
+
+myFunction();
+
+console.log(student);
+
+// error: friend is not defined
+console.log(friend);  
+
+</script>
+</html>

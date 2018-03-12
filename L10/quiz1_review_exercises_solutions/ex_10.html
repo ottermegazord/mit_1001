@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 10 - value copies are independent -->
+
+<script>
+
+// copy by a-to-b by value
+var a = 1;
+var b = a;
+
+var increaseByThree = function(b){
+	console.log('in function b:' + b);
+	b += 3;
+	console.log('in function b:' + b);
+};
+
+increaseByThree(b);
+a += 3;
+
+// check the value of a & b
+console.log('outside of function b: ' + b);
+console.log('outside of function a: ' + a);
+
+</script>
+</html>

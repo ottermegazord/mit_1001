@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 04 - vanilla function expression -->
+
+<script>
+
+var add = function (a,b){
+	return a + b;
+};
+
+console.log(add(5,3));
+
+// skip function name?
+
+// skip the parentheses?
+
+console.log(add);
+
+// skip the parameters?
+
+console.log(add());
+
+// too many parameters?
+console.log(add(1,2,3,4,5,6));
+
+// too few parameters?
+console.log(add(1));
+
+// use arguments keyword
+add = function (a,b){
+    console.log('arguments[0]: ' + arguments[0]);
+    return a + b;
+};
+add(9,7);
+
+</script>
+</html>

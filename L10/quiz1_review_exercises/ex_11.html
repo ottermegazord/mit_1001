@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 11 - changing referenced object -->
+
+<script>
+
+// assign object
+var city01 = {name:'boston', state:'MA'};
+
+// objects always copied by reference
+
+const city02 = Object.assign({}, city01);
+
+
+// add property to object
+city02.country = 'US of A';
+
+
+// both variables point to the same object
+
+console.log(city01);
+console.log(city02);
+
+
+</script>
+</html>

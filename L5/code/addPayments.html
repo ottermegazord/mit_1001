@@ -3,13 +3,20 @@
 <script src="payments_2005_to_2010.json"></script>
 <script>
 
+var totalSalary = 0;
+
 function add(item){
 	// -----------------------------
 	//    YOUR CODE: write callback 
 	// -----------------------------
+
+    totalSalary += Number(item[9]);
+    return totalSalary;
 }
 
 chicago.data.forEach(add);
+
+console.log(totalSalary);
 
 </script>
 </html>

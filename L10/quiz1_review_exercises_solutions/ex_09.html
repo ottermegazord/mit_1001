@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 09 - value types passed by value into fn -->
+
+<script>
+
+var increaseByFive = function(x){
+	console.log('in function x: ' + x);
+	x += 5;
+	console.log('in function x: ' + x);	
+};
+
+// declare and assign x
+var x = 0;
+
+// pass x to funciton
+increaseByFive(x);
+
+// check the value of x
+console.log('outside function x: ' + x);
+
+</script>
+</html>

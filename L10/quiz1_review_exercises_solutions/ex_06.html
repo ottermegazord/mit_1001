@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 06 - loader function -->
+
+<script>
+
+// declare and assign function
+var sayHello = function(){
+	console.log('Hello!');
+};
+
+// declare and assign function
+var loader = function(myFunction){
+	myFunction();
+};
+
+loader(sayHello);
+
+// what happens if define function in parameter
+loader(function(){
+	console.log('Hello!');
+});
+
+</script>
+</html>

@@ -16,6 +16,12 @@ function haveLunch() {
   ShakeShack.makeBurgerPromise('Sue', 'veggie').then(function(res) {
     console.log(res.name + ' receives burger: ' + res.burger);
   });
+
+  // Joe's order a triple
+console.log('Joe Orders');
+ShakeShack.makeBurgerPromise('Joe', 'triple').then(function(res){
+  console.log(res.name + ' receives burger: ' + res.burger);
+})
 }
 
 //console.log('Al orders');

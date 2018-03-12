@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 14 - retain reference -->
+
+<script>
+
+// copy reference of city01 obj into city02
+var city01 = {name : 'boston', state : 'MA'};
+var city02 = city01;
+
+
+// assign new object to city01
+city01 = {name : 'miami', state : 'fl'};
+
+
+// what does city02.name print?
+console.log('city02.name: ' + city02.name);
+
+
+// getting the reference back
+city01 = city02;
+
+
+// what does city01.name print?
+console.log('city01.name: ' + city01.name);
+
+
+</script>
+</html>

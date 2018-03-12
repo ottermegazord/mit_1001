@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 13 - behavior inside obj consistent -->
+
+<script>
+
+// assign object to city variable
+var city = { name	: 'boston',
+            state	: 'MA',
+            governor: {
+                name	: 'deval patrick',
+                party	: 'democrat'
+            }
+};
+
+// get city name value and update
+var name = city.name;
+name = 'las vegas';
+console.log('name: ' + name);
+console.log('city.name: ' + city.name);
+
+// get governor reference and party
+var governor = city.governor;
+governor.party = 'republican';
+console.log('governor.party: ' + governor.party);
+console.log('city.governor.party: ' + city.governor.party);
+
+
+</script>
+</html>

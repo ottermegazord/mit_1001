@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 02 - object properties are array/object -->
+
+<script>
+
+// data object
+var data = [
+	{students : [
+		{firstName : 'peter parker', age : 19},
+		{firstName : 'bruce wayne', age : 18},
+		{firstName : 'clark kent', age : 20}	
+	]},
+	{schools : [
+		{name : 'mit', city : 'cambridge'},
+		{name : 'bu', model : 'boston'},
+		{name : 'bc', model : 'newton'}	
+	]},
+	// add scholarships	
+];
+
+// loop through students
+
+data[0].students.forEach(loopStudent);
+
+function loopStudent(student){
+    console.log(student);
+}
+
+// loop through schools
+
+data[1].schools.forEach(loopSchool);
+
+function loopSchool(school){
+    console.log(school);
+}
+
+////console.log(students.students[0]);
+//
+//data[0].students.forEach(loopStudent);
+//
+//function loopStudent(element){
+//    console.log(element);
+//}
+//
+//// loop through school
+//
+//data[1].schools.forEach(loopSchool);
+//
+//function loopSchool(element){
+//    console.log(element);
+//}
+
+
+</script>
+</html>

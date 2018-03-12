@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 03 - deep object hierarchy -->
+
+<script>
+
+var university = { 
+    schools : {
+        engineering : {
+            departments : {
+                course1 : {
+                    classes : [
+                        { engrComputation       : '1.00' }, 
+                        { fundamentalsEcology   : '1.018AJ' }
+                    ]
+                }
+            }
+        }
+    }
+};
+
+// access course 1 classes
+
+    console.log(university.schools.engineering.departments.course1.classes);
+
+</script>
+</html>

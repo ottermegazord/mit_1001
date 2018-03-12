@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 14 - retain reference -->
+
+<script>
+
+// random numbers
+var x = Math.random();
+// generate a random number between -5 and 5
+
+var Vector = function(x, y){
+	return {x:x, y:y};
+};
+
+// generate a random vector of unit length
+
+var unitVector = function(v){
+	var len = Math.sqrt(v.x*v.x +v.y*v.y);
+	return Vector(v.x/len, v.y/len);
+}; 
+
+var randomUnitVec = function(){
+	var x = Math.random()*2 - 1;
+	var y = Math.random()*2 - 1;
+	return unitVector(Vector(x,y));
+};
+
+console.log(Json.stringify(randomUnitVec));
+
+
+
+</script>
+</html>

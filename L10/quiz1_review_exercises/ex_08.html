@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 08 - scope, leaking variables -->
+
+<script>
+
+var student = 'peter parker';
+
+var myFunction = function(){
+	var student = 'bruce wayne';
+	friend = 'robin';
+	console.log(student);
+};
+
+myFunction();
+
+console.log('17: ' + student);
+console.log(friend);
+
+</script>
+</html>

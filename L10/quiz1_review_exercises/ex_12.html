@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<!-- Exercise 12 - multiple reference to one obj -->
+
+<script>
+
+// assign object to student variable
+var student = {school	: 'mit', 
+                city	: 'cambridge',
+                state	: 'MA',
+                sport   : {spring: 'baseball', summer: 'soccer'}};
+
+var student01;
+var student02;
+var student03;
+
+// all variables point to student
+student01 = student;
+student02 = student;
+student03 = student;
+
+// add property, all references affected
+var sample = student.sport;
+sample.spring = 'tennis';
+
+// check values
+
+    console.log(student01);
+console.log(student02);
+console.log(student03);
+
+
+
+
+</script>
+</html>
